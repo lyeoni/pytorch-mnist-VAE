@@ -8,6 +8,9 @@ Variational AutoEncoder on the MNIST data set using the PyTorch
 - numpy
 
 ## Results
+Learned MNIST manifold
+
+![alt text](https://github.com/lyeoni/pytorch-mnist-VAE/blob/master/samples/sample_.png)
 
 ## Reference
 1. Auto-Encoding Variational Bayes (paper): 
