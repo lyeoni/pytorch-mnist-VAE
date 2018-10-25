@@ -8,7 +8,7 @@ Variational AutoEncoder on the MNIST data set using the PyTorch
 - numpy
 
 ## Results
-Generated samples. from 2-D latent variable with random numbers from a normal distribution with mean 0 and variance 1 
+Generated samples from 2-D latent variable with random numbers from a normal distribution with mean 0 and variance 1 
 
 ![alt text](https://github.com/lyeoni/pytorch-mnist-VAE/blob/master/samples/sample_.png)
 
